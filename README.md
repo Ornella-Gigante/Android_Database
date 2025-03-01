@@ -1,3 +1,27 @@
+# 📱 Android_Database: Your Efficient SQLite Database for Android
+
+Welcome to **Android_Database**! This repository hosts a SQLite database project developed in Android Studio using Java. Here's what you need to know:
+
+## 🚀 Project Overview
+
+- **Platform**: Android
+- **Development Environment**: Android Studio
+- **Language**: Java
+- **Purpose**: To provide a robust and efficient SQLite database for Android applications.
+
+## 🌟 Key Features
+
+- **Basic Operations**: Supports all fundamental database operations like **Create**, **Read**, **Update**, and **Delete** (CRUD).
+- **Efficient Execution**: Designed to perform operations smoothly and efficiently.
+- **User-Friendly**: Easy to integrate into your Android projects with minimal setup.
+- **Customizable**: Adaptable to various data models and requirements.
+
+## 🛠️ How to Use
+
+1. **Clone the Repository**: 
+git clone https://github.com/Ornella-Gigante/Android_Database.git
+
+text
 
 2. **Open in Android Studio**: Import the project into Android Studio.
 
@@ -35,6 +59,7 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 ## 🌐 Connect
 
+- [GitHub](https://github.com/Ornella-Gigante)
 - [LinkedIn](https://www.linkedin.com/in/ornella-gigante/)
 
 Let's make database management in Android apps efficient and straightforward with **Android_Database**! 🎉
